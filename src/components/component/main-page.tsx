@@ -191,9 +191,9 @@ export function MainPage() {
           <div className=" mx-auto px-4 md:px-6 flex flex-col md:flex-column items-center justify-between">
           <p className="  mt-4 ">26 RUE FAVART </p>
           <p className="   ">13015 MARSEILLE</p>
-          <p className="  mt-4 ">contact@kalouis-plus.fr</p>
+          <p className="  mt-4 ">contact@roladin-plus.fr</p>
 
-          <p className="  mt-4 ">TEL: 04 28 29 39 24 </p>
+          <p className="  mt-4 ">TEL: 04 84 89 63 48</p>
           </div>
       </footer>
     </div>
