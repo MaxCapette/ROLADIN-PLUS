@@ -193,7 +193,7 @@ export function MainPage() {
           <p className="   ">13015 MARSEILLE</p>
           <p className="  mt-4 ">contact@roladin-plus.fr</p>
 
-          <p className="  mt-4 ">TEL: 04 84 89 63 48</p>
+          <p className="  mt-4 ">TEL: 09 72 66 95 62</p>
           </div>
       </footer>
     </div>
